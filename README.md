@@ -4,4 +4,4 @@ This project is about Customer Credit Card Data Analysis is a part of the UNP ac
 Using Excel, the data was first cleaned and prepared for analysis. Various BI tools within Excel—such as pivot tables, charts, and conditional formatting—were utilized to explore patterns and trends in customer behavior. Key metrics such as monthly spending, transaction frequency, and product category preferences were visualized through interactive dashboards. The analysis also included customer segmentation based on usage and spending habits, which can be valuable for targeted marketing strategies.
 
 MS Excel Project File :  
-https://1drv.ms/x/c/a6acf9b7c0aa4893/EWogVs3oorFCh3u5Yh0JhkQB1U2nc6u9twVa8mRoCFXWsQ
+https://1drv.ms/x/c/a6acf9b7c0aa4893/EXM0JLhTFy1Pl58Eaio2TSsBuMweoTesUai6nntUwWjF_w
